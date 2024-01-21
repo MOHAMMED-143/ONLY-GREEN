@@ -1,5 +1,2 @@
 import os
-print('TOOL IS OFF ') 
-print('------------') 
-print('WHAIT FOR NEXT UPDATE') 
-
+print('\033[1;31mTOOL IS OFF 😘') 
